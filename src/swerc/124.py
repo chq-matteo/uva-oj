@@ -18,7 +18,7 @@ while True:
     else:
         stdout.write('\n')
         
-    variables = sorted([q for q in list(line) if q in alpha])
+    v = sorted([q for q in list(line) if q in alpha])
     translation = {v[i]: i for i in range(len(v))}
     line = stdin.readline()    
     c = [q for q in list(line) if q in alpha]
