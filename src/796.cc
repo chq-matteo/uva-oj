@@ -1,3 +1,7 @@
+// 796 Critical Links
+// Finding Articulation Points/Bridges
+// Graph Traversal
+// Just find the bridges
 #include <iostream>
 #include <vector>
 #include <set>
