@@ -1,3 +1,12 @@
+/*
+10803 Thunder Mountain
+All pairs shortest path
+
+Compute the euclidean distance between each city and add an edge if it is less than 10
+Dijkstra on each city
+A friend told me that Floyd Warshall would be a better choice
+*/
+
 #include <iostream>
 #include <queue>
 #include <math.h>
