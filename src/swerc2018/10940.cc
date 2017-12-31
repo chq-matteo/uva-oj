@@ -1,5 +1,5 @@
 // 10940 Throwing cards away II
-
+// print a couple of cases to understand the pattern
 #include <iostream>
 using namespace std;
 int log(int n) {
